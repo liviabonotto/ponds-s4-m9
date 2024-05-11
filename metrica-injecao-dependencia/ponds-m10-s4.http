@@ -1,0 +1,6 @@
+@metrics_with_injection_HostAddress = http://localhost:5055
+
+GET {{metrics_with_injection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

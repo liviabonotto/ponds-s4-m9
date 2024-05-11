@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\metrics-with-injection.props" />
+</Project>

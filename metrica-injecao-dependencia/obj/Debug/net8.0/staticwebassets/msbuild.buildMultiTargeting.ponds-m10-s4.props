@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ponds-m10-s4.props" />
+</Project>
