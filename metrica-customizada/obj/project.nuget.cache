@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SEJOI7uH4mPk0OJgOjP2zJQvM/hslp3JVAXN68we8XWk3IF/c4BdCWO4K8KO8iqdWsb1Ts7WBC0IgQ+4gQTs5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\livia\\source\\repos\\ponderada-m10-s4\\ponderada-m10-s4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\livia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
